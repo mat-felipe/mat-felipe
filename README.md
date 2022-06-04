@@ -29,3 +29,8 @@
 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+  
+## 🐍&nbsp; Snake '97
+  
+![Snake animation](https://github.com/mat-felipe/mat-felipe/blob/output/github-contribution-grid-snake.svg)
