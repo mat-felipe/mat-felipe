@@ -9,7 +9,7 @@
 <td>Backend</td>
 <td>
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=orange)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
   
 <td>Frontend</td>
