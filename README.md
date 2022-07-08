@@ -38,6 +38,7 @@
   
 ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
+![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
   
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mat-felipe)
 
