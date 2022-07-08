@@ -10,6 +10,7 @@
 <td>
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cplusplus)
   
 <td>Frontend</td>
 <td>
